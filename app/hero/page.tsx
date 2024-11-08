@@ -1,7 +1,7 @@
 import React from 'react';
-import Image from 'next/image';
 
-import { FaGithub, FaLinkedin } from 'react-icons/fa';
+
+
 const Hero = () => {
   return (
     <div id="hero" className="w-full pt-[4vh] md:pt-[12vh] h-screen bg overflow-hidden">
