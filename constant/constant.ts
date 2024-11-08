@@ -1,6 +1,6 @@
 
 
-export const navLinks: { id: number; url: string; label: string }[] = [
+export  const navLinks = [
     {
         id:1,
         url:'/hero',
